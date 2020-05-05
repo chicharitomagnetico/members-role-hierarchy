@@ -1,4 +1,6 @@
-# Members - Role Hierarchy
+# Members - Role Hierarchy - Fork
+
+Since the Members Plugin was Fked'up by MemberPress this is a Fork of the original Justin Tadlock plugin, I've changed the name so it doesn't update automatically to the MemberPress version
 
 _Members - Role Hierarchy is an add-on plugin for [Members](http://themehybrid.com/plugins/members).  You must have it installed for this plugin to work._
 
